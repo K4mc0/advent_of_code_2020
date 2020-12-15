@@ -16,3 +16,7 @@ for prvok in pole:
         print (prvok-1)
         break
     i += 1
+
+    
+#with open('input.txt') as f:
+#lines = f.read().split('\n\n')
